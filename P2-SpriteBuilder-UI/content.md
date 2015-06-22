@@ -48,7 +48,7 @@ The second tab on the right panel let's you manage code connections for your sel
 
 #Publishing to Xcode
 
-You already have used this button when testing your first project. Using the button in the top left corner, you publish your changes in your Spritebuilder project to your Xcode project. Whenever you changed your SpriteBuilder project and want to run it, you should hit this button before building the Xcode project:
+You already have used this button when testing your first project. Using the button in the top left corner, you publish your changes in your SpriteBuilder project to your Xcode project. Whenever you changed your SpriteBuilder project and want to run it, you should hit this button before building the Xcode project:
 
 ![image](https://s3.amazonaws.com/mgwu-misc/Spritebuilder+Tutorial/Spritebuilder_Publish.png)
 
