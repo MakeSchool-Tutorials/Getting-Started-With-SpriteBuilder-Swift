@@ -3,9 +3,6 @@ title: Get Started with SpriteBuilder!
 slug: installing-spritebuilder
 ---
 
-
-#About this Tutorial
-
 This tutorial will guide you through building your very first full-fledged mobile game with SpriteBuilder, a fantastic new tool developed by Apportable. Throughout this process you will not only learn the basics of the tool but will also get to see a lot of best practices for common problems in mobile games.
 
 The first game we are going to build is a clone of the very popular game Flappy Bird. We will call it Hoppy Bunny but first we need to get our development tools set up!
