@@ -1,5 +1,5 @@
 ---
-title: 'SpriteBuilder's User Interface'
+title: "SpriteBuilder's User Interface"
 slug: ui-overview
 ---
 
